@@ -1,0 +1,42 @@
+name: nee_swarth
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^8.8.1
+  carousel_slider: ^2.2.1
+  http: ^0.12.2
+  progress_dialog: ^1.2.4
+  fluttertoast: ^7.0.2
+  shared_preferences: ^0.5.8
+  firebase_messaging: ^7.0.0
+  google_fonts: ^1.1.0
+  expandable: ^4.1.4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+  fonts:
+   - family: track_order
+     fonts:
+       - asset: assets/fonts/track_order.ttf

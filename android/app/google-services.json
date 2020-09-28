@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323641566369",
+    "firebase_url": "https://nee-swarth.firebaseio.com",
+    "project_id": "nee-swarth",
+    "storage_bucket": "nee-swarth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323641566369:android:720c7ccb0ddd0ee53cfce0",
+        "android_client_info": {
+          "package_name": "com.nee_swarth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323641566369-mq7g7bcqoahlrtno279410hkbrmpn2uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkbFvY-J2TxhfpdSml3HjM214o4sY4PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323641566369-mq7g7bcqoahlrtno279410hkbrmpn2uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
